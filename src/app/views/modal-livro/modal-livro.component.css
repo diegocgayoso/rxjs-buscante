@@ -114,4 +114,9 @@
   background: #050C42;
 }
 
+.overflow{
+  height: 300px;
+  overflow: auto;
+}
+
 
